@@ -10,7 +10,7 @@ void ft_print_comb(void)
 	char a = 'a';
 	char b = 'b';
 	char c = 'c';
-//	char comma = ',';
+	char comma = ',';
 
 
 		while(a<='9')
